@@ -8,7 +8,7 @@ export function Banner() {
                         <div className="col-12 col-xl-8 col-lg-6">
                             <div className="hero-items">
                                 <div className="book-shape">
-                                    <img src="./src/assets/img/hero/techcom.png" alt="shape-img" style={{width:"216px", height:"165px"}}/>
+                                    <img src="./src/assets/img/logo/logo.png" alt="shape-img" style={{width:"216px", height:"165px"}}/>
                                 </div>
                                 <div className="frame-shape1 float-bob-x">
                                     <img src="./src/assets/img/hero/frame.png" alt="shape-img" />
@@ -45,7 +45,7 @@ export function Banner() {
                         </div>
                         <div className="col-12 col-xl-4 col-lg-6">
                             <div className="girl-image">
-                                <img className=" float-bob-x" src="./src/assets/img/hero/banner.png" alt="img" style={{width:"589px", height:"743px"}} />
+                                <img className=" float-bob-x" src="./src/assets/img/hero/banner.png" alt="img" style={{width:"489px", height:"743px"}} />
                             </div>
                         </div>
                     </div>

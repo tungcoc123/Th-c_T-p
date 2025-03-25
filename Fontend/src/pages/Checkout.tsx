@@ -57,6 +57,12 @@ export default function Checkout() {
                 <div className="container">
                     <div className="page-heading">
                         <h1>Checkout</h1>
+                        <div className="book1">
+                            <img src="./src/assets/img/hero/book1.png" alt="book" />
+                        </div>
+                        <div className="book2">
+                            <img src="./src/assets/img/hero/book2.png" alt="book" />
+                        </div>
                         <div className="page-header">
                             <ul className="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
                                 <li><a href="index.html">Home</a></li>

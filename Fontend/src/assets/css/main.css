@@ -3329,7 +3329,7 @@ span {
 .breadcrumb-wrapper {
   position: relative;
   overflow: hidden;
-  background: #E6EFF2;
+  background: #84adbb;
   padding: 173px 0;
 }
 .breadcrumb-wrapper .book1 {
@@ -3887,7 +3887,7 @@ span {
 
 .hero-1 {
   position: relative;
-  background-color: var(--bg);
+  background-color: #99ccdc;
 }
 .hero-1 .book-shape,
 .hero-1 .frame-shape1,

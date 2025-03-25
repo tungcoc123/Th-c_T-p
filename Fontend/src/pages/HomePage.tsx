@@ -83,9 +83,9 @@ export default function HomePage() {
     };
 
     return (
-        <section className="shop-section section-padding fix pt-0">
+        <section className="shop-section section-padding fix pt-0 ">
             <div className="container">
-                <div className="section-title">
+                <div className="section-title-pading">
                     <h2>Sách Nổi Bật</h2>
                 </div>
                 {renderBookList(featuredBooks)}

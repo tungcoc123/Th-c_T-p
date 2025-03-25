@@ -20,11 +20,11 @@ export default function ShopCart() {
     return (
         <>
             <div className="breadcrumb-wrapper">
-                <div className="book1">
-                    <img src="./src/assets/img/hero/maytinh1.png" alt="book" style={{ width: "402px", height: "305px" }} />
+            <div className="book1">
+                    <img src="./src/assets/img/hero/book1.png" alt="book"  />
                 </div>
                 <div className="book2">
-                    <img src="./src/assets/img/hero/maytinh2.png" alt="book" style={{ width: "402px", height: "280px" }} />
+                    <img src="./src/assets/img/hero/book2.png" alt="book"  />
                 </div>
                 <div className="container">
                     <div className="page-heading">
